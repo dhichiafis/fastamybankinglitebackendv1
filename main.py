@@ -16,4 +16,4 @@ async def home():
     return {'home':'this is the home page'}
 
 
-handler=Mangum(app)
+#handler=Mangum(app)
