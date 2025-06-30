@@ -8,7 +8,7 @@
     "routes":[
         {
             "src":"/(*)",
-            "dist";"main.py"
+            "dist":"main.py"
         }
     ]
 }
